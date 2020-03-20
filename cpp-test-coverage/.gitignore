@@ -1,2 +1,4 @@
 *.so
 test-all
+cov.info
+report/
